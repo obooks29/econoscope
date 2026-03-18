@@ -191,14 +191,6 @@ Shows:
 
 ---
 
-## 🏅 Hackathon Prizes Targeted
-
-- **Best AI Agent Persona** ($2,000) - Dual persona Economic Oracle working in production
-- **Best Program for the People** ($2,000) - SMS alerts on Nokia phones for 2B unbanked people
-- **The Great Whale** ($2,000) - Comprehensive platform utilization
-
----
-
 ## 🛠️ Technology Stack
 
 **AI & ML:**
