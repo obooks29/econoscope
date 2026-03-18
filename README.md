@@ -10,7 +10,7 @@
 
 # 
 
-# \[!\[Demo Video](https://img.shields.io/badge/Demo-Video-red)]((https://youtu.be/ZK7MW3dY_6k))
+# \[!\[Demo Video][(https://img.shields.io/badge/Demo-Video-red)](https://youtu.be/ZK7MW3dY_6k)]
 
 # \[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
