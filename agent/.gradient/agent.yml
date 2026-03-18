@@ -1,0 +1,7 @@
+agent_environment: econoscope-oracle
+agent_name: econoscope-oracle
+description: 'Example LangGraph agent. Invoke: curl -X POST <url> -H "Authorization:
+  Bearer $DIGITALOCEAN_API_TOKEN" -H "Content-Type: application/json" -d ''{"prompt":
+  "hello"}'''
+entrypoint_file: main.py
+port: 8085  # ADD THIS LINE

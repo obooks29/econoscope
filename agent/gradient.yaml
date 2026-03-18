@@ -1,0 +1,13 @@
+@"
+name: econoscope-oracle
+runtime: python3.11
+entrypoint: main.py
+
+resources:
+  memory: 512Mi
+  cpu: 0.5
+
+observability:
+  traces: true
+  logs: true
+"@ | Out-File -FilePath gradient.yaml -Encoding utf8
